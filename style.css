@@ -1,0 +1,30 @@
+body {
+  padding-top: 40px;
+}
+.pricing-header {
+  max-width: 700px;
+}
+.navbar-nav {
+  width: 100%;
+  justify-content: center;
+}
+
+.navbar {
+  margin-top: -40px;
+  margin-bottom: 50px;
+}
+
+.text-center {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 55px;
+}
+
+.nav-link {
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.col-12 {
+  margin-left: 50px;
+}
